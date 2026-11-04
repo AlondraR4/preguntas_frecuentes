@@ -1,0 +1,19 @@
+:root {
+    --color--titulos: #9e0c00; 
+    --color--texto: #160b00;   
+    
+    --color--fondo: #F4F1E8;
+    --color--primario: #e19701; 
+    --color--secundario: #a94923; 
+
+    --blanco: #ffffff;
+    --negro: #000000;
+    
+    --texto-sm: 1rem;
+    --texto-m: 1.5rem;
+    --texto-l: 2.2rem;
+    --texto-x1: 3rem;
+    
+    --fuente--principal: Verdana, Geneva, Tahoma, sans-serif;
+    --fuente--titulos: ;
+}
